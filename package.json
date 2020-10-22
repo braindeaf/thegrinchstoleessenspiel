@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "puppeteer": "^5.3.1",
+    "puppeteer-har": "^1.1.2"
+  }
+}
